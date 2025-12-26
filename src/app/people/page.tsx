@@ -203,7 +203,7 @@ export default function PeoplePage() {
       </Section>
 
       {/* Team Sections */}
-      <Section variant="white" padding="lg">
+      <Section variant="light" padding="lg">
         <Container size="wide">
           {/* Leadership */}
           <TeamSection
