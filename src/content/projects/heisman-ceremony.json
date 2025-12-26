@@ -1,0 +1,41 @@
+{
+  "slug": "heisman-ceremony",
+  "title": "Heisman Trophy Ceremony — Jazz at Lincoln Center",
+  "client": "ESPN / Heisman Trophy Trust",
+  "category": "events",
+  "tags": ["Awards Ceremony", "Broadway Design", "Annual Event"],
+  "location": "New York City, New York",
+  "completionDate": "2025-12",
+  
+  "heroImage": "/images/projects/heisman-ceremony/scenic-carpentry-nyc-skyline-backdrop.jpg",
+  "cardImage": "/images/projects/heisman-ceremony/3d-scenic-design-heisman-statue-detail.jpg",
+  "gallery": [
+    { "src": "/images/projects/heisman-ceremony/live-event-set-fabrication-lighting-grid.jpg", "alt": "Stage setup", "caption": "Complete scenic package at The Appel Room" },
+    { "src": "/images/projects/heisman-ceremony/virtual-broadcast-set-gloss-black-floor.jpg", "alt": "Winners gallery", "caption": "Portrait display of all 91+ Heisman recipients" }
+  ],
+  
+  "summary": "Bringing Broadway stagecraft to college football's highest honor. Mystic delivers the complete scenic package annually for college football's most prestigious award against NYC's iconic skyline.",
+  
+  "challenge": "The Appel Room's 50-foot glass wall creates a stunning but technically challenging backdrop. Design must work harmoniously with dramatic nighttime city views while supporting 14+ camera broadcast production.",
+  
+  "approach": "Working with Tony-nominated designer David Korins ('Hamilton,' 'Beetlejuice'), Mystic fabricated a larger-than-life Heisman Trophy replica (hand-carved by Rebecca Ward), winners portrait gallery, LED display housings, and automated scenic pieces — delivered annually since 2021.",
+  
+  "result": "Five consecutive ceremonies delivered (2021-2025), establishing Jazz at Lincoln Center as the ceremony's prestigious permanent home with Broadway-caliber production values.",
+  
+  "keyFacts": [
+    { "value": "5", "label": "Consecutive Years" },
+    { "value": "91+", "label": "Winner Portraits" },
+    { "value": "14+", "label": "Cameras" },
+    { "value": "50 ft", "label": "Glass Wall Backdrop" }
+  ],
+  
+  "testimonial": {
+    "quote": "We wanted to bring the power of visual storytelling so often the trademark of great Broadway stages to the Heisman Trophy presentation.",
+    "author": "Dan Cunningham",
+    "title": "Creative Director",
+    "company": "ESPN"
+  },
+  
+  "featured": false,
+  "services": ["Scenic Fabrication", "Sculpture", "LED Integration"]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "nba-on-nbc",
+  "title": "NBA on NBC — Studio 1 Stamford",
+  "client": "NBC Sports",
+  "category": "broadcast",
+  "tags": ["Multi-Property", "LED Architecture", "AR Integration"],
+  "location": "Stamford, Connecticut",
+  "completionDate": "2025-11",
+  
+  "heroImage": "/images/projects/nba-on-nbc/nba-on-nbc-studio-wide-shot-led-video-wall.jpg",
+  "cardImage": "/images/projects/nba-on-nbc/nba-showtime-studio-anchor-desk-fabrication.jpg",
+  "gallery": [
+    { "src": "/images/projects/nba-on-nbc/nba-on-nbc-set-design-led-wall-diamond-pattern.jpg", "alt": "LED wall pattern", "caption": "Floor-to-ceiling LED bands wrapping the studio" },
+    { "src": "/images/projects/nba-on-nbc/nba-studio-stand-up-area-basketball-rack-decor.jpg", "alt": "Demo area", "caption": "Demo half-court with regulation hoop" },
+    { "src": "/images/projects/nba-on-nbc/custom-studio-fabrication-wood-archway-detail.jpg", "alt": "Etched glass logo wall", "caption": "30 etched glass NBA team logo panels" }
+  ],
+  
+  "summary": "After 22 years in the wilderness, basketball comes home — and brings a half-court with it. Mystic delivered scenic fabrication for NBC Sports' flagship return to NBA coverage.",
+  
+  "challenge": "When NBC Sports secured NBA broadcast rights for 2025-26, it marked the league's return after a 22-year absence. The network needed a studio honoring that legacy while serving multiple properties — NBA, NCAA Football, NCAA Basketball, and Olympics.",
+  
+  "approach": "Mystic fabricated an LED-dominated architecture with four floor-to-ceiling bands, reconfigurable tracking screens, and a signature etched glass logo wall with 30 NBA team panels. The 7,000 sq ft space includes a demo half-court with floor LED and regulation hoop.",
+  
+  "result": "Studio 1 launched with 'NBA Showtime' in November 2025, earning positive reviews for blending nostalgia with modern production innovation.",
+  
+  "keyFacts": [
+    { "value": "7,000", "label": "sq ft Studio" },
+    { "value": "30", "label": "Team Logo Panels" },
+    { "value": "22", "label": "Years Since NBC NBA" },
+    { "value": "4", "label": "LED Bands" }
+  ],
+  
+  "testimonial": {
+    "quote": "From day one, we knew we wanted to put a large emphasis on the studio. The studio has sort of become its own character.",
+    "author": "Jared Sumner",
+    "title": "Director, Studio Production",
+    "company": "NBA on NBC"
+  },
+  
+  "featured": false,
+  "services": ["Scenic Fabrication", "LED Integration", "Glass Fabrication"]
+}

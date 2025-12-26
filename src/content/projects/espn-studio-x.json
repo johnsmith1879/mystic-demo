@@ -1,0 +1,44 @@
+{
+  "slug": "espn-studio-x",
+  "title": "ESPN Studio X — SportsCenter Flagship",
+  "client": "ESPN / The Walt Disney Company",
+  "category": "broadcast",
+  "tags": ["LED Integration", "Virtual Production", "Flagship Studio", "Depth Monitor"],
+  "location": "Bristol, Connecticut",
+  "completionDate": "2023-09",
+  
+  "heroImage": "/images/projects/espn-studio-x/hero.jpg",
+  "cardImage": "/images/projects/espn-studio-x/card.jpg",
+  "gallery": [
+    { "src": "/images/projects/espn-studio-x/gallery-1.jpg", "alt": "48-ft main LED display with anchor desk", "caption": "The 48-foot main LED — largest on ESPN's campus" },
+    { "src": "/images/projects/espn-studio-x/gallery-2.jpg", "alt": "Skydeck virtual window with stadium environment", "caption": "The 'Skydeck' depth monitor creates a virtual fifth wall" },
+    { "src": "/images/projects/espn-studio-x/gallery-3.jpg", "alt": "Catwalk area with wood wrapping and pendant lighting", "caption": "Custom wood-wrapped catwalk with motorized monitors" },
+    { "src": "/images/projects/espn-studio-x/gallery-4.jpg", "alt": "Curved scenic elements", "caption": "Organic shapes soften the studio's square geometry" },
+    { "src": "/images/projects/espn-studio-x/gallery-5.jpg", "alt": "LED floor graphics integration", "caption": "Seamless LED floor integration for dynamic content" }
+  ],
+  
+  "summary": "Future-proofing sports broadcasting's most iconic program. The comprehensive Studio X refresh maintains SportsCenter's industry leadership while pioneering virtual production technology for daily broadcast operations.",
+  
+  "challenge": "ESPN sought to future-proof the studio while maintaining the show's established identity — integrating cutting-edge virtual production technology, expanding LED capabilities, and softening the existing aesthetic, all while keeping SportsCenter on-air throughout construction.",
+  
+  "approach": "Working with Jack Morton Worldwide, Mystic delivered scenic fabrication for the comprehensive second phase including curved wall treatments, wood feature wrapping around the new 'catwalk' area, pendant lighting integration, and dimensional wall effects with embedded lighting. The signature innovation — a 'depth monitor' creating a virtual fifth wall with realistic parallax using ESPN's proprietary GRACE platform.",
+  
+  "result": "The Studio X refresh launched on September 7, 2023 — ESPN's 44th anniversary — maintaining SportsCenter's position as the industry benchmark for sports news presentation. The depth monitor integration represents pioneering use of virtual production for daily programming.",
+  
+  "keyFacts": [
+    { "value": "48 ft", "label": "Main LED Display" },
+    { "value": "38M", "label": "Pixels" },
+    { "value": "2 Years", "label": "Phased Build" },
+    { "value": "1st", "label": "Depth Monitor Daily Use" }
+  ],
+  
+  "testimonial": {
+    "quote": "To my knowledge, I don't know anybody else who's doing depth monitor all day long on their productions. So it feels pretty innovative to me, and I think that's the space we need to be in.",
+    "author": "Marti Hanzlik",
+    "title": "Coordinating Director",
+    "company": "ESPN"
+  },
+  
+  "featured": true,
+  "services": ["Scenic Fabrication", "LED Integration", "Virtual Production Support"]
+}

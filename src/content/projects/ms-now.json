@@ -1,0 +1,40 @@
+{
+  "slug": "ms-now",
+  "title": "MS NOW — Times Square Broadcast Facility",
+  "client": "MS NOW / Versant",
+  "category": "broadcast",
+  "tags": ["Multi-Studio", "Network Rebrand", "Accelerated Timeline"],
+  "location": "Times Square, New York City",
+  "completionDate": "2025-11",
+  
+  "heroImage": "/images/projects/ms-now/times-square-studio-wide-led-walls.jpg",
+  "cardImage": "/images/projects/ms-now/msnbc-studio-set-fabrication-side-angle.jpg",
+  "gallery": [
+    { "src": "/images/projects/ms-now/broadcast-studio-brick-wall-loft-design.jpg", "alt": "Studio 9C urban aesthetic", "caption": "Urban loft aesthetic with faux brick and steel columns" }
+  ],
+  
+  "summary": "Three months. Three studios. One network rebrand. Zero compromises. When MSNBC rebranded as MS NOW and left 30 Rock, Mystic delivered a complete multi-studio broadcast facility in an impossibly compressed timeline.",
+  
+  "challenge": "MSNBC was forced to leave its home of nearly two decades at 30 Rock due to corporate restructuring. Simultaneously rebranding as 'MS NOW,' the network needed a facility that would maintain broadcast continuity while establishing a fresh visual identity — in three months.",
+  
+  "approach": "Mystic delivered complete scenic for three studios: 9A (modern/polished with LED ribbon display), 9C (urban/organic with faux brick and circular discussion table), and 9B (full LED volume for virtual production). 1,782 sq ft of LED across all studios.",
+  
+  "result": "MS NOW debuted November 15, 2025, exactly on schedule — a remarkable achievement given the three-month timeline. Existing shows maintained quality through the rebrand.",
+  
+  "keyFacts": [
+    { "value": "3", "label": "Months Timeline" },
+    { "value": "3", "label": "Studios Built" },
+    { "value": "1,782", "label": "sq ft LED" },
+    { "value": "60M", "label": "Pixels Virtual Studio" }
+  ],
+  
+  "testimonial": {
+    "quote": "Timing was, of course, a challenge, but we have an incredible team that built a fully functional and state-of-the-art facility in an incredibly short period of time.",
+    "author": "Andy Barsh",
+    "title": "SVP Creative Operations",
+    "company": "MS NOW"
+  },
+  
+  "featured": true,
+  "services": ["Scenic Fabrication", "LED Integration", "Virtual Production"]
+}

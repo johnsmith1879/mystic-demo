@@ -1,0 +1,44 @@
+{
+  "slug": "amazon-nba-studio",
+  "title": "Amazon NBA on Prime — Culver City Studio",
+  "client": "Amazon Prime Video",
+  "category": "broadcast",
+  "tags": ["LED Floor", "Multi-Level Studio", "Streaming", "Flagship"],
+  "location": "Culver City, California",
+  "completionDate": "2025-10",
+  
+  "heroImage": "/images/projects/amazon-nba-studio/hero.jpg",
+  "cardImage": "/images/projects/amazon-nba-studio/card.jpg",
+  "gallery": [
+    { "src": "/images/projects/amazon-nba-studio/gallery-1.jpg", "alt": "Full two-story NBA House environment", "caption": "The complete two-story 'NBA House' broadcast environment" },
+    { "src": "/images/projects/amazon-nba-studio/gallery-2.jpg", "alt": "LED half-court with regulation playing surface", "caption": "Largest high-resolution LED studio floor in America" },
+    { "src": "/images/projects/amazon-nba-studio/gallery-3.jpg", "alt": "Upper mezzanine broadcast desk", "caption": "Premium mezzanine position with arena-style vantage point" },
+    { "src": "/images/projects/amazon-nba-studio/gallery-4.jpg", "alt": "Lower lounge area", "caption": "Casual lounge environment for NBA Nightcap postgame" },
+    { "src": "/images/projects/amazon-nba-studio/gallery-5.jpg", "alt": "Wood staircase and mezzanine detail", "caption": "Custom fabricated wood staircase connecting levels" }
+  ],
+  
+  "summary": "The largest high-resolution LED studio floor in America. Built for legends who'd rather show you the play than tell you about it. A two-story 'NBA House' where Hall of Famers demonstrate plays on an LED court that transforms into any arena in seconds.",
+  
+  "challenge": "When Amazon secured an 11-year NBA rights deal, they needed more than a studio — they needed a statement. Competing not just with ESPN and NBC, but with TNT's legendary 'Inside the NBA,' required something that would make viewers forget they were watching streaming and remember they were watching basketball.",
+  
+  "approach": "Working with Jack Morton Worldwide, Mystic fabricated an 'NBA House' — a two-story environment where every inch serves storytelling. The upper mezzanine hosts the main broadcast desk; the lower lounge creates casual atmosphere for postgame. At the center: a regulation LED half-court where analysts can step onto the court while surrounded by a virtual recreation of any NBA arena.",
+  
+  "result": "The studio launched October 24, 2025 — the first NBA regular season telecasts to air exclusively on streaming. The LED court demonstration during debut, with analysts role-playing as Knicks players to break down offensive sets, immediately showcased the studio's storytelling potential.",
+  
+  "keyFacts": [
+    { "value": "13,000", "label": "sq ft Studio" },
+    { "value": "2,300+", "label": "LED Tiles" },
+    { "value": "22", "label": "Cameras" },
+    { "value": "2", "label": "Story Levels" }
+  ],
+  
+  "testimonial": {
+    "quote": "Very rarely do you get a true greenfield opportunity like this and also have this much stage space to work with. That allowed us to bring in this stunning LED volume with unbelievable resolution to the point where it looks like you're in real life when you're standing on the set.",
+    "author": "Jared Stacy",
+    "title": "VP/Head of Worldwide Live Sports Production",
+    "company": "Prime Video"
+  },
+  
+  "featured": true,
+  "services": ["Scenic Fabrication", "LED Integration", "Multi-Level Construction"]
+}

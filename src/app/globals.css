@@ -1,0 +1,258 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================
+   MYSTIC CUSTOM FABRICATION - GLOBAL STYLES
+   Brand & Visual Layer Implementation
+   ============================================ */
+
+/* ---------- Base Layer ---------- */
+@layer base {
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-light-base text-gray-700 font-sans antialiased;
+    font-feature-settings: 'liga' 1, 'kern' 1;
+  }
+
+  /* Typography defaults */
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-charcoal font-semibold;
+  }
+
+  /* Links default style - except buttons */
+  a:not(.btn):not([class*='bg-orange']):not([class*='border-']) {
+    @apply text-orange transition-colors duration-micro;
+  }
+
+  a:not(.btn):not([class*='bg-orange']):not([class*='border-']):hover {
+    @apply text-orange-hover;
+  }
+
+  /* Focus states for accessibility */
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-orange;
+  }
+
+  /* Selection color */
+  ::selection {
+    @apply bg-orange text-white;
+  }
+}
+
+/* ---------- Component Layer ---------- */
+@layer components {
+  /* Container widths */
+  .container-narrow {
+    @apply max-w-narrow mx-auto px-5 md:px-10;
+  }
+
+  .container-default {
+    @apply max-w-default mx-auto px-5 md:px-10 lg:px-20;
+  }
+
+  .container-wide {
+    @apply max-w-wide mx-auto px-5 md:px-10 lg:px-20;
+  }
+
+  /* Section spacing */
+  .section-padding {
+    @apply py-16 md:py-24;
+  }
+
+  .section-padding-lg {
+    @apply py-20 md:py-32;
+  }
+
+  /* Light section (default) */
+  .section-light {
+    @apply bg-light-base text-gray-700;
+  }
+
+  .section-light h1,
+  .section-light h2,
+  .section-light h3,
+  .section-light h4 {
+    @apply text-charcoal;
+  }
+
+  /* Dark section */
+  .section-dark {
+    @apply bg-charcoal text-white;
+  }
+
+  .section-dark h1,
+  .section-dark h2,
+  .section-dark h3,
+  .section-dark h4 {
+    @apply text-white;
+  }
+
+  .section-dark .text-muted {
+    @apply text-gray-300;
+  }
+
+  /* Button variants */
+  .btn {
+    @apply inline-flex items-center justify-center font-semibold rounded transition-all duration-ui;
+    @apply focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-orange;
+  }
+
+  .btn-primary {
+    @apply btn bg-orange text-white px-8 py-4 text-body-s;
+    @apply hover:bg-orange-hover active:scale-[0.98];
+  }
+
+  .btn-secondary {
+    @apply btn border-2 border-gray-700 text-gray-700 px-8 py-4 text-body-s;
+    @apply hover:bg-gray-700 hover:bg-opacity-10;
+  }
+
+  .btn-secondary-light {
+    @apply btn border-2 border-white text-white px-8 py-4 text-body-s;
+    @apply hover:bg-white hover:bg-opacity-10;
+  }
+
+  .btn-sm {
+    @apply px-5 py-2.5 text-caption;
+  }
+
+  .btn-lg {
+    @apply px-10 py-5 text-body-m;
+  }
+
+  /* Card base */
+  .card {
+    @apply bg-white border border-gray-300 rounded-card overflow-hidden;
+    @apply transition-all duration-content;
+  }
+
+  .card:hover {
+    @apply border-gray-500 shadow-card-hover -translate-y-1;
+  }
+
+  .card-dark {
+    @apply bg-[#222222] border-[#333333];
+  }
+
+  .card-dark:hover {
+    @apply border-gray-500;
+  }
+
+  /* Text link with arrow */
+  .link-arrow {
+    @apply inline-flex items-center gap-2 text-orange font-medium transition-all duration-micro;
+  }
+
+  .link-arrow:hover {
+    @apply text-orange-hover gap-3;
+  }
+
+  .link-arrow svg {
+    @apply w-4 h-4 transition-transform duration-micro;
+  }
+
+  .link-arrow:hover svg {
+    @apply translate-x-1;
+  }
+
+  /* Overline text */
+  .overline {
+    @apply text-overline uppercase tracking-wider text-gray-500;
+  }
+
+  .overline-orange {
+    @apply overline text-orange;
+  }
+}
+
+/* ---------- Utility Layer ---------- */
+@layer utilities {
+  /* Text gradient (special headlines) */
+  .text-gradient {
+    @apply bg-gradient-to-r from-orange to-[#E54E15] bg-clip-text text-transparent;
+  }
+
+  /* Text balance for headlines */
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Line clamp utilities */
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  /* Image hover effects */
+  .img-hover-zoom {
+    @apply overflow-hidden;
+  }
+
+  .img-hover-zoom img {
+    @apply transition-transform duration-content;
+  }
+
+  .img-hover-zoom:hover img {
+    @apply scale-[1.02];
+  }
+
+  /* Gradient overlays */
+  .gradient-overlay-bottom {
+    background: linear-gradient(
+      to top,
+      rgba(26, 26, 26, 0.9) 0%,
+      rgba(26, 26, 26, 0.6) 40%,
+      rgba(26, 26, 26, 0) 100%
+    );
+  }
+
+  .gradient-overlay-full {
+    background: rgba(26, 26, 26, 0.5);
+  }
+
+  /* Aspect ratios */
+  .aspect-hero {
+    aspect-ratio: 16/9;
+  }
+
+  .aspect-card {
+    aspect-ratio: 3/2;
+  }
+
+  .aspect-portrait {
+    aspect-ratio: 2/3;
+  }
+
+  /* Reduced motion preference */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+/* ---------- Font loading ---------- */
+/* Inter font is loaded via next/font/google in layout.tsx */

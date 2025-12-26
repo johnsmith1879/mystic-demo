@@ -1,0 +1,42 @@
+{
+  "slug": "nesn-fenway",
+  "title": "NESN Red Sox Studio at Fenway Park",
+  "client": "NESN (New England Sports Network)",
+  "category": "broadcast",
+  "tags": ["In-Stadium", "Heritage Design", "Baseball"],
+  "location": "Fenway Park, Boston, MA",
+  "completionDate": "2022-04",
+  
+  "heroImage": "/images/projects/nesn-fenway/nesn-studio-fenway-park-view-anchor-desk.jpg",
+  "cardImage": "/images/projects/nesn-fenway/nesn-studio-feature-wall-baseball-texture.jpg",
+  "gallery": [
+    { "src": "/images/projects/nesn-fenway/nesn-logo-signage-fabrication-detail.jpg", "alt": "NESN logo in mural", "caption": "5-foot illuminated NESN logo embedded in mural" },
+    { "src": "/images/projects/nesn-fenway/studio-set-dimensional-wall-texture.jpg", "alt": "Blueprint wall", "caption": "Archival Fenway Park drawings from 1933-1969" },
+    { "src": "/images/projects/nesn-fenway/custom-anchor-desk-profile-green-monster..jpg", "alt": "Anchor desk", "caption": "Custom desk with heritage aesthetic" }
+  ],
+  
+  "summary": "1,968 baseballs. 60 wooden bats. One unmistakable broadcast backdrop in America's oldest ballpark. A purpose-built broadcast home where baseball's physical heritage becomes the visual identity.",
+  
+  "challenge": "NESN needed to replace their temporary Jersey Street setup with a permanent broadcast studio worthy of America's oldest ballpark. New construction must complement Fenway Park's iconic 1912 character.",
+  
+  "approach": "Mystic created a signature 20×9 ft sculptural mural with 1,968 actual baseballs and 60 regulation wooden bats, plus a 5-foot illuminated NESN logo. Additional elements include a 19×13 ft blueprint wall featuring archival Fenway drawings and floor-to-ceiling plexiglass viewing wall for fan engagement.",
+  
+  "result": "The studio debuted April 15, 2022, for the Red Sox home opener. The mural wall immediately established a new visual standard for NESN coverage.",
+  
+  "keyFacts": [
+    { "value": "1,968", "label": "Baseballs" },
+    { "value": "60", "label": "Wooden Bats" },
+    { "value": "18.5 ft", "label": "Field View Window" },
+    { "value": "110+", "label": "Years Fenway History" }
+  ],
+  
+  "testimonial": {
+    "quote": "It is our top priority to bring unparalleled access and connection to our fanbase, and this new space will bring our fans closer to the game than ever.",
+    "author": "Sean McGrail",
+    "title": "President and CEO",
+    "company": "NESN"
+  },
+  
+  "featured": false,
+  "services": ["Scenic Fabrication", "Custom Installation", "Signage"]
+}

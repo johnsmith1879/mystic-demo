@@ -1,0 +1,30 @@
+{
+  "slug": "goodnight-moon",
+  "title": "Goodnight Moon Suite — Sheraton Boston",
+  "client": "Sheraton Boston / Marriott",
+  "category": "experiential",
+  "tags": ["Immersive", "Themed Environment", "Hospitality"],
+  "location": "Boston, Massachusetts",
+  "completionDate": "2024",
+  
+  "heroImage": "/images/projects/goodnight-moon/goodnight-moon-suite-sheraton-boston-wide-view.webp",
+  "cardImage": "/images/projects/goodnight-moon/immersive-hotel-suite-fireplace-mantel-detail.webp",
+  
+  "summary": "Transforming the legendary children's book into a real family hotel suite. An immersive 'great green room' where every detail — from the red balloon to the bowl of mush — brings Margaret Wise Brown's classic to life.",
+  
+  "challenge": "Create a hotel suite that is visually accurate to the original illustrations by Clement Hurd, functional and durable for daily family use, compliant with safety standards and international hotel chain requirements, and works as a PR tool generating media coverage and social engagement.",
+  
+  "approach": "Mystic created a full-scale 'living book page' with signature green walls and ceiling, red floor, fireplace with safe LED construction, and all key objects from the book: telephone, red balloon, cow jumping over the moon, three bears on chairs, two kittens, and the bowl of mush.",
+  
+  "result": "The suite became a notable media story covered by People, Travel + Leisure, and Boston.com. It serves as a unique PR asset for Sheraton Boston, differentiating the hotel in the family travel market with an experience that's impossible for competitors to replicate.",
+  
+  "keyFacts": [
+    { "value": "1", "label": "Iconic Book" },
+    { "value": "2+2", "label": "Family Capacity" },
+    { "value": "Full", "label": "Immersive Experience" },
+    { "value": "Media", "label": "Coverage Winner" }
+  ],
+  
+  "featured": false,
+  "services": ["Custom Fabrication", "Themed Environment", "Hospitality Design"]
+}

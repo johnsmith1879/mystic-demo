@@ -1,0 +1,34 @@
+{
+  "slug": "stanley-cup",
+  "title": "NHL Stanley Cup 2025 Presentation Set",
+  "client": "National Hockey League (NHL)",
+  "category": "events",
+  "tags": ["Championship", "Rapid Deployment", "Modular Build"],
+  "location": "Sunrise, Florida",
+  "completionDate": "2025-06",
+  
+  "heroImage": "/images/projects/stanley-cup/nhl-stanley-cup-presentation-set-fireworks.jpg",
+  "cardImage": "/images/projects/stanley-cup/nhl-championship-celebration-stage-design.jpg",
+  "gallery": [
+    { "src": "/images/projects/stanley-cup/championship-podium-design-nhl-commissioner.jpg", "alt": "Trophy podium", "caption": "Gloss black podium with chrome and LED accents" },
+    { "src": "/images/projects/stanley-cup/custom-fabricated-stage-hockey-arena-set.jpg", "alt": "Stage on ice", "caption": "Wheel-mounted system for direct ice deployment" }
+  ],
+  
+  "summary": "Sub-5-minute deployment. Center ice transformation. The stage for hockey's most iconic moment. Mystic delivered fabrication and engineering for the ceremonial stage where Aleksander Barkov hoisted the Stanley Cup.",
+  
+  "challenge": "Full deployment required in under 5 minutes during a single commercial break. Ice presents unique stability and traction challenges. Design must frame the broadcast shot while not obstructing 19,000+ arena spectators.",
+  
+  "approach": "Mystic developed a fully modular stage system with wheel-mounted base for direct ice deployment. The 45ft wide × 12.5ft tall structure features a central trophy podium with gloss black finish, 'Stanley Cup Champions' branded arch, and LED integration leveraging ice reflection.",
+  
+  "result": "Flawless ceremonial moment for the 2025 Stanley Cup Final, transforming center ice into a premium presentation venue during a single commercial break for Florida Panthers' back-to-back championship.",
+  
+  "keyFacts": [
+    { "value": "<5", "label": "Min Deployment" },
+    { "value": "45 ft", "label": "Stage Width" },
+    { "value": "19k+", "label": "Arena Audience" },
+    { "value": "2", "label": "Back-to-Back Titles" }
+  ],
+  
+  "featured": false,
+  "services": ["Fabrication", "Engineering", "Installation"]
+}

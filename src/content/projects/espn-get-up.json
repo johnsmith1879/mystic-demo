@@ -1,0 +1,42 @@
+{
+  "slug": "espn-get-up",
+  "title": "ESPN Get Up — Studio X at 7 Hudson Square",
+  "client": "ESPN / The Walt Disney Company",
+  "category": "broadcast",
+  "tags": ["NYC Aesthetic", "Epoxy Table", "AR Ready"],
+  "location": "New York City, New York",
+  "completionDate": "2025-06",
+  
+  "heroImage": "/images/projects/espn-get-up/espn-get-up-studio-wide-shot-seaport.jpg",
+  "cardImage": "/images/projects/espn-get-up/espn-get-up-studio-anchor-desk-city-backdrop.jpg",
+  "gallery": [
+    { "src": "/images/projects/espn-get-up/custom-anchor-desk-wood-led-fabrication.jpg", "alt": "Custom curved anchor desk", "caption": "Curved anchor desk with integrated LED inlay" },
+    { "src": "/images/projects/espn-get-up/espn-studio-brick-wall-mosaic-logo.jpg", "alt": "ESPN mosaic wall", "caption": "Subway tile and mosaic elements for NYC authenticity" },
+    { "src": "/images/projects/espn-get-up/studio-demonstration-area-sliding-monitor.jpg", "alt": "Demonstration area", "caption": "Custom Manhattan epoxy table for segments" }
+  ],
+  
+  "summary": "Creating the ultimate sports hangout in Lower Manhattan. The custom epoxy table depicting Lower Manhattan serves Mike Greenberg's 'Big Man, Tiny Helmets' segment while reinforcing the studio's New York identity.",
+  
+  "challenge": "ESPN's morning show needed a new home that better reflected its conversational format. The design team drew inspiration from beloved TV gathering places like Central Perk from 'Friends' and the diner from 'Seinfeld.'",
+  
+  "approach": "Mystic worked with MPK Scenic to translate the 'classic TV hangout' concept into physical elements. The centerpiece is a custom poured resin 'river table' depicting Lower Manhattan, plus subway tile installations, ESPN mosaic wall, and curved anchor desk with LED screen inlay.",
+  
+  "result": "Studio X launched June 9, 2025, successfully transitioning 'Get Up' to Lower Manhattan. Column-free sightlines eliminated camera obstructions that plagued the previous location.",
+  
+  "keyFacts": [
+    { "value": "2,100", "label": "sq ft Studio" },
+    { "value": "Custom", "label": "Epoxy Table" },
+    { "value": "AR", "label": "Ready Infrastructure" },
+    { "value": "NYC", "label": "Authentic Finishes" }
+  ],
+  
+  "testimonial": {
+    "quote": "We wanted that kind of feel for 'Get Up,' for Greeny and his show — like Central Perk or the Seinfeld diner.",
+    "author": "Joe Ferretti",
+    "title": "Director of Studio Design & Development",
+    "company": "ESPN"
+  },
+  
+  "featured": false,
+  "services": ["Scenic Fabrication", "Custom Furniture", "LED Integration"]
+}

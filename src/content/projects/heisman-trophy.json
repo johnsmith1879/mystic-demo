@@ -1,0 +1,37 @@
+{
+  "slug": "heisman-trophy",
+  "title": "Heisman Trophy Ceremony",
+  "client": "ESPN / Heisman Trophy Trust",
+  "category": "events",
+  "tags": ["Awards Ceremony", "Broadway Design", "Annual Event"],
+  "location": "New York City, New York",
+  "completionDate": "2025-12",
+  
+  "heroImage": "/images/projects/heisman-trophy/heisman-trophy-ceremony-stage-night-view.avif",
+  "cardImage": "/images/projects/heisman-trophy/scenic-carpentry-nyc-skyline-backdrop.jpg",
+  
+  "summary": "Bringing Broadway stagecraft to college football's highest honor. Annual scenic package for the Heisman Trophy ceremony at Jazz at Lincoln Center, featuring a hand-carved oversized trophy sculpture.",
+  
+  "challenge": "The Heisman Trophy is the most prestigious individual award in college football. ESPN and the Heisman Trust envisioned a production bringing Broadway-caliber values to the ceremony. The venue's 50-foot glass wall overlooking Central Park demanded scenic that would complement the iconic backdrop.",
+  
+  "approach": "Tony-nominated designer David Korins ('Hamilton,' 'Beetlejuice') created the scenic vision. Mystic delivers the complete package annually including a larger-than-life hand-carved Heisman Trophy replica by Rebecca Ward, winners portrait gallery for 91+ recipients, LED display housings, and automated scenic pieces.",
+  
+  "result": "The 2021 debut established Jazz at Lincoln Center as the ceremony's permanent home. Five consecutive ceremonies (2021–2025) demonstrate sustained client satisfaction, with recent winners including Bryce Young, Caleb Williams, Jayden Daniels, and Travis Hunter.",
+  
+  "keyFacts": [
+    { "value": "5", "label": "Consecutive Years" },
+    { "value": "91+", "label": "Winner Portraits" },
+    { "value": "50 ft", "label": "Glass Wall Backdrop" },
+    { "value": "14+", "label": "Camera Production" }
+  ],
+  
+  "testimonial": {
+    "quote": "We wanted to bring the power of visual storytelling so often the trademark of great Broadway stages to the Heisman Trophy presentation.",
+    "author": "Dan Cunningham",
+    "title": "Creative Director",
+    "company": "ESPN"
+  },
+  
+  "featured": false,
+  "services": ["Scenic Fabrication", "Sculpture", "LED Integration"]
+}

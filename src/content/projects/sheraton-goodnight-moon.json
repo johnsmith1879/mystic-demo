@@ -1,0 +1,35 @@
+{
+  "slug": "sheraton-goodnight-moon",
+  "title": "Goodnight Moon Suite — Sheraton Boston",
+  "client": "Sheraton Boston Hotel / Marriott",
+  "category": "corporate",
+  "tags": ["Immersive Experience", "Themed Suite", "IP Collaboration"],
+  "location": "Boston, Massachusetts",
+  "completionDate": "2024",
+  
+  "heroImage": "/images/projects/sheraton-goodnight-moon/goodnight-moon-suite-sheraton-boston-wide-view.webp",
+  "cardImage": "/images/projects/sheraton-goodnight-moon/immersive-hotel-suite-fireplace-mantel-detail.webp",
+  "gallery": [
+    { "src": "/images/projects/sheraton-goodnight-moon/custom-fabrication-tiger-rug-rocking-chair.jfif", "alt": "Tiger rug and rocking chair", "caption": "Faithful recreation of book's iconic elements" },
+    { "src": "/images/projects/sheraton-goodnight-moon/themed-suite-yellow-console-decor.webp", "alt": "Console detail", "caption": "Functional hotel room within immersive design" },
+    { "src": "/images/projects/sheraton-goodnight-moon/family-hotel-room-bed-plush-bunny.webp", "alt": "Bedroom area", "caption": "Family accommodation with themed elements" }
+  ],
+  
+  "summary": "A full-scale 'living' version of the legendary great green room from Margaret Wise Brown's 'Goodnight Moon.' An immersive family suite that transforms children's book illustrations into a real hotel room.",
+  
+  "challenge": "Create a hotel suite that is visually accurate to the original illustrations, functional and durable as an everyday hotel room, compliant with safety standards, and works as a PR tool that generates social media engagement.",
+  
+  "approach": "Mystic fabricated all scenic elements including the iconic green walls and ceiling, red floor, fireplace, signature objects from the book (telephone, red balloon, cow jumping over moon, bears on chairs, kittens, dollhouse, mush bowl), and LED fireplace for safe visual effect.",
+  
+  "result": "The suite became a major media story covered by People, Travel + Leisure, and Boston.com. It strengthens Sheraton Boston's positioning as a family-friendly destination with a unique, hard-to-replicate offering.",
+  
+  "keyFacts": [
+    { "value": "1:1", "label": "Book Accuracy" },
+    { "value": "4", "label": "Guest Capacity" },
+    { "value": "PR", "label": "Media Magnet" },
+    { "value": "IP", "label": "Licensed Design" }
+  ],
+  
+  "featured": false,
+  "services": ["Scenic Fabrication", "Custom Furniture", "Themed Environment"]
+}

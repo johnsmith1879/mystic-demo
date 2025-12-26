@@ -1,0 +1,42 @@
+{
+  "slug": "espn-first-take",
+  "title": "ESPN First Take — Studio Y at 7 Hudson Square",
+  "client": "ESPN / The Walt Disney Company",
+  "category": "broadcast",
+  "tags": ["Manhattan Penthouse", "LED Integration", "360° Studio"],
+  "location": "New York City, New York",
+  "completionDate": "2025-06",
+  
+  "heroImage": "/images/projects/espn-first-take/espn-first-take-studio-wide-master-shot.jpg",
+  "cardImage": "/images/projects/espn-first-take/first-take-anchor-desk-live-broadcast-set.jpg",
+  "gallery": [
+    { "src": "/images/projects/espn-first-take/custom-anchor-desk-copper-acrylic-fabrication.jpg", "alt": "Custom anchor desk detail", "caption": "Circular desk with edge-lit First Take logo" },
+    { "src": "/images/projects/espn-first-take/vertical-led-feature-wall-metal-frame.jpg", "alt": "LED feature wall", "caption": "Floor-to-ceiling LED creating Manhattan skyline views" },
+    { "src": "/images/projects/espn-first-take/textured-wall-paneling-and-millwork-detail.jpg", "alt": "Tobacco panel detail", "caption": "Warm wood-toned wall treatments" }
+  ],
+  
+  "summary": "Elevating sports debate to Manhattan penthouse sophistication. ESPN's flagship debate program received a sophisticated new home — a Manhattan penthouse-inspired environment for hosts Stephen A. Smith and Molly Qerim.",
+  
+  "challenge": "With 'Get Up' occupying nearby Studio X with a casual 'friends hanging out' vibe, 'First Take' required a contrasting aesthetic conveying sophistication and gravitas. The hosts wanted to feel 'above it all' with expansive city vistas.",
+  
+  "approach": "Production designer Andre Durette created an environment evoking Manhattan's luxury residential towers. Mystic delivered warm tobacco panels, custom 'FT' chair railing, illuminated columns, Art Deco window casings for LED 'windows,' and a signature circular anchor desk engineered for 360° camera access.",
+  
+  "result": "First Take debuted from Studio Y on June 23, 2025, completing ESPN's transition to 7 Hudson Square with clear visual separation from sister shows while maintaining cohesive quality across ESPN's presence.",
+  
+  "keyFacts": [
+    { "value": "360°", "label": "In-the-Round Format" },
+    { "value": "50ft", "label": "LED Skyline Views" },
+    { "value": "2025", "label": "Launch Year" },
+    { "value": "Art Deco", "label": "Design Language" }
+  ],
+  
+  "testimonial": {
+    "quote": "Andre Durette really leaned into the upscale Manhattan high-rise penthouse design. A travel luxury feel… sophisticated.",
+    "author": "Joe Ferretti",
+    "title": "Director of Studio Design & Development",
+    "company": "ESPN"
+  },
+  
+  "featured": false,
+  "services": ["Scenic Fabrication", "LED Integration", "Custom Millwork"]
+}

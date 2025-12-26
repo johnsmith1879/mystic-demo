@@ -1,0 +1,44 @@
+{
+  "slug": "msnbc-studio-3a",
+  "title": "MSNBC Studio 3A — 30 Rockefeller Center",
+  "client": "MSNBC / NBCUniversal News Group",
+  "category": "broadcast",
+  "tags": ["LED Integration", "Art Deco", "Cable News", "AR/VR Ready"],
+  "location": "New York City, New York",
+  "completionDate": "2021-09",
+  
+  "heroImage": "/images/projects/msnbc-studio-3a/hero.jpg",
+  "cardImage": "/images/projects/msnbc-studio-3a/card.jpg",
+  "gallery": [
+    { "src": "/images/projects/msnbc-studio-3a/gallery-1.jpg", "alt": "LED arch wide shot — signature curved ribbon", "caption": "30+ foot curved LED arch — first of its kind" },
+    { "src": "/images/projects/msnbc-studio-3a/gallery-2.jpg", "alt": "Anchor desk with LED front panel", "caption": "L-shaped anchor desk with integrated LED front panel" },
+    { "src": "/images/projects/msnbc-studio-3a/gallery-3.jpg", "alt": "Art Deco gold pattern wall detail", "caption": "Gold pattern treatments with geometric Art Deco motifs" },
+    { "src": "/images/projects/msnbc-studio-3a/gallery-4.jpg", "alt": "Curved LED background with discussion table", "caption": "Circular discussion table against curved LED backdrop" },
+    { "src": "/images/projects/msnbc-studio-3a/gallery-5.jpg", "alt": "Full studio establishing shot", "caption": "Multi-zone layout serving diverse programming formats" }
+  ],
+  
+  "summary": "Where 1930s Art Deco meets 40 million pixels of tomorrow. A complete reimagining of MSNBC's flagship cable news studio that honors Rockefeller Center's architectural heritage while deploying cutting-edge LED technology.",
+  
+  "challenge": "The design must honor 30 Rockefeller Center's Art Deco legacy while appearing thoroughly modern. A single studio must serve diverse formats: panels, single anchor, remote interviews, breaking news. 40 million pixels of LED require seamless scenic integration without visual seams or structural compromise.",
+  
+  "approach": "Working with Clickspring Design, Mystic translated an ambitious vision into physical reality. The design pays homage to Rockefeller Center's architectural vernacular through modern materials — deconstructed archways in light wood tones, gold accent patterns featuring repeating NBC peacock motifs, and a first-of-its-kind 30+ foot curved LED arch spanning floor-to-ceiling-to-floor.",
+  
+  "result": "Studio 3A relaunched September 20, 2021, serving MSNBC's full primetime lineup including 'Deadline: White House' and 'All In with Chris Hayes.' The Art Deco design creates distinctive identity in the competitive cable news landscape while AR/VR integration enables enhanced election coverage.",
+  
+  "keyFacts": [
+    { "value": "40M", "label": "Pixels" },
+    { "value": "30+ ft", "label": "LED Arch Span" },
+    { "value": "500+", "label": "LED Lights" },
+    { "value": "Full", "label": "AR/VR Capability" }
+  ],
+  
+  "testimonial": {
+    "quote": "The new Studio 3A captures exactly what we envisioned — a space that honors our home at 30 Rock while giving our programming the visual canvas modern news demands. The LED arch has become our signature.",
+    "author": "NBCUniversal News Group",
+    "title": "Executive Statement",
+    "company": "NBCUniversal"
+  },
+  
+  "featured": true,
+  "services": ["Scenic Fabrication", "LED Integration", "Architectural Scenic"]
+}
