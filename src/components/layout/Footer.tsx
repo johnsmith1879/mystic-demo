@@ -8,9 +8,10 @@ import { Instagram, Facebook, Linkedin } from 'lucide-react';
 // 5 сегментов согласно Company Pack
 const navigation = {
   company: [
-    { label: 'About', href: '/about/' },
     { label: 'Services', href: '/services/' },
     { label: 'Projects', href: '/projects/' },
+    { label: 'About', href: '/about/' },
+    { label: 'People', href: '/people/' },
     { label: 'Contact', href: '/contact/' },
   ],
   services: [

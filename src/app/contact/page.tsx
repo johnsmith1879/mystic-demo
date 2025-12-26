@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import Image from 'next/image';
 import { Section, Container, Grid } from '@/components/layout/Section';
 import { Button } from '@/components/ui/Button';
 import { 
@@ -13,7 +14,8 @@ import {
   Building2,
   Instagram,
   Facebook,
-  Linkedin
+  Linkedin,
+  Users
 } from 'lucide-react';
 
 // ============================================
@@ -226,9 +228,23 @@ function ContactForm() {
 export default function ContactPage() {
   return (
     <>
-      {/* Hero */}
-      <section className="relative bg-charcoal pt-24 pb-16">
-        <Container size="wide">
+      {/* Hero with Team Photo */}
+      <section className="relative h-[50vh] min-h-[400px] max-h-[500px]">
+        {/* Background Image */}
+        <div className="absolute inset-0">
+          <Image
+            src="/images/mystic-team.jpg"
+            alt="Mystic Custom Fabrication Team"
+            fill
+            className="object-cover"
+            priority
+          />
+          {/* Gradient Overlay */}
+          <div className="absolute inset-0 bg-gradient-to-r from-charcoal/90 via-charcoal/70 to-charcoal/40" />
+        </div>
+        
+        {/* Content */}
+        <Container size="wide" className="relative h-full flex items-center">
           <div className="max-w-2xl">
             <p className="text-orange font-semibold text-body-m mb-4 tracking-wide">
               CONTACT US
@@ -236,10 +252,13 @@ export default function ContactPage() {
             <h1 className="text-h1-mobile md:text-h1 text-white mb-6">
               Let's Build Something Extraordinary
             </h1>
-            <p className="text-body-l text-gray-300">
-              Ready to start your project? Have questions about our capabilities? 
-              We'd love to hear from you.
+            <p className="text-body-l text-gray-300 mb-6">
+              Ready to start your project? Meet the team that will bring your vision to life.
             </p>
+            <div className="flex items-center gap-3 text-white/80">
+              <Users className="w-5 h-5 text-orange" />
+              <span className="text-body-m">97+ skilled craftspeople ready to work with you</span>
+            </div>
           </div>
         </Container>
       </section>
