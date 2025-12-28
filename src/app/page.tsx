@@ -41,15 +41,29 @@ const services = [
   },
 ];
 
-// Логотипы клиентов
+// Логотипы клиентов — 16 штук для сетки 4×4
+// Сгруппированы по типу: News → Broadcast → Tech/Entertainment → Automotive/Arts
 const clientLogos = [
+  // Row 1: Major News Networks
   { name: 'ESPN', file: 'espn.png' },
   { name: 'CNN', file: 'cnn.png' },
   { name: 'MSNBC', file: 'msnbc.png' },
-  { name: 'Fox', file: 'fox.png' },
+  { name: 'Fox News', file: 'fox.png' },
+  // Row 2: Broadcast Networks
   { name: 'CBS', file: 'cbs.png' },
   { name: 'NBC', file: 'nbc.png' },
-  { name: 'Amazon', file: 'amazon.png' },
+  { name: 'ABC', file: 'abc.avif' },
+  { name: 'CBS Sports', file: 'cbs-sports.avif' },
+  // Row 3: Tech & Entertainment Giants
+  { name: 'Amazon Prime', file: 'amazon.png' },
+  { name: 'Disney', file: 'disney.avif' },
+  { name: 'IBM', file: 'ibm.avif' },
+  { name: 'HP', file: 'hp.avif' },
+  // Row 4: Automotive & Arts
+  { name: 'General Motors', file: 'gm.avif' },
+  { name: 'Mercedes-Benz', file: 'mercedes.avif' },
+  { name: 'Lexus', file: 'lexus.avif' },
+  { name: 'Boston Ballet', file: 'boston-ballet.avif' },
 ];
 
 export default function HomePage() {
@@ -305,23 +319,36 @@ export default function HomePage() {
       </Section>
 
       {/* ============================================
-          CLIENT LOGOS
+          CLIENT LOGOS — 4×4 Grid "Wall of Trust"
           ============================================ */}
-      <Section variant="light" padding="md">
+      <Section variant="light" padding="lg">
         <Container size="wide">
-          <p className="text-center text-overline uppercase tracking-wider text-gray-500 mb-10">
+          {/* Увеличенный заголовок */}
+          <h2 className="text-center text-h3 md:text-h2 font-semibold text-charcoal mb-4">
             Trusted By Industry Leaders
+          </h2>
+          <p className="text-center text-body-m text-gray-500 mb-12 max-w-2xl mx-auto">
+            From major broadcast networks to Fortune 500 companies, we deliver for the world’s most demanding brands.
           </p>
-          <div className="flex flex-wrap justify-center items-center gap-x-12 gap-y-8">
+          
+          {/* Сетка 4×4 */}
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-12">
             {clientLogos.map((client) => (
               <div
                 key={client.name}
-                className="h-10 opacity-60 hover:opacity-100 transition-opacity grayscale hover:grayscale-0"
+                className="
+                  h-16 md:h-20
+                  flex items-center justify-center
+                  opacity-40 hover:opacity-100 
+                  grayscale hover:grayscale-0 
+                  transition-all duration-300
+                  px-4
+                "
               >
                 <img 
                   src={`/images/clients-logos/${client.file}`}
                   alt={client.name}
-                  className="h-full w-auto object-contain"
+                  className="max-h-full max-w-full object-contain"
                 />
               </div>
             ))}
