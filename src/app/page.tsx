@@ -103,6 +103,42 @@ export default function HomePage() {
                 Contact Us
               </LinkButton>
             </div>
+
+            {/* Trust Bar — Emmy + Stats */}
+            <div className="mt-12 pt-8 border-t border-white/20">
+              <div className="flex flex-wrap items-center gap-8 md:gap-12">
+                {/* Emmy Award */}
+                <div className="flex items-center gap-3">
+                  <img 
+                    src="/images/emmy-icon.png" 
+                    alt="Emmy Award" 
+                    className="w-10 h-10 md:w-12 md:h-12 object-contain"
+                  />
+                  <div>
+                    <p className="text-white font-semibold text-body-m">Emmy® Winner</p>
+                    <p className="text-gray-400 text-body-s">Outstanding Design</p>
+                  </div>
+                </div>
+
+                {/* Divider */}
+                <div className="hidden md:block w-px h-12 bg-white/20" />
+
+                {/* 35+ Years */}
+                <div>
+                  <p className="text-white font-semibold text-h3">35+</p>
+                  <p className="text-gray-400 text-body-s">Years in Business</p>
+                </div>
+
+                {/* Divider */}
+                <div className="hidden md:block w-px h-12 bg-white/20" />
+
+                {/* 500+ Projects */}
+                <div>
+                  <p className="text-white font-semibold text-h3">500+</p>
+                  <p className="text-gray-400 text-body-s">Projects Delivered</p>
+                </div>
+              </div>
+            </div>
           </div>
         </Container>
       </section>
