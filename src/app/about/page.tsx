@@ -23,7 +23,7 @@ const timeline = [
   { year: "1989", title: "Founded", description: "Started by theatre professionals to build stage scenery" },
   { year: "1995", title: "Broadcast Expansion", description: "First major TV studio project" },
   { year: "2005", title: "New Facility", description: "Moved to 100,000 sq ft Norwood location" },
-  { year: "2014", title: "Emmy Recognition", description: "ESPN SportsCenter wins Sports Emmy for Studio Design" },
+  { year: "2014", title: "Emmy® Recognition", description: "Back-to-back Emmy® Awards (2014, 2015) for ESPN SportsCenter and Comcast SportsNet studios" },
   { year: "2019", title: "National Stage", description: "Presidential Debate stage, CCTV 13 Award, industry acclaim" },
   { year: "2025", title: "New Chapter", description: "Rebrand to Mystic Custom Fabrication" },
 ];
