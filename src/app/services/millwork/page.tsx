@@ -93,7 +93,18 @@ export default function MillworkPage() {
     <>
       {/* Hero */}
       <section className="relative min-h-[70vh] flex items-center bg-charcoal pt-24">
-        <div className="absolute inset-0 bg-gradient-to-br from-charcoal via-charcoal-light to-charcoal opacity-90" />
+        {/* Background with combined gradient overlay */}
+        <div className="absolute inset-0">
+          <img
+            src="/images/categories/hero/mill.avif"
+            alt="Custom Millwork & High-End Finishes"
+            className="w-full h-full object-cover opacity-70"
+          />
+          {/* Gradient from bottom */}
+          <div className="absolute inset-0 bg-gradient-to-t from-charcoal via-charcoal/30 to-transparent" />
+          {/* Gradient from left — for text readability */}
+          <div className="absolute inset-0 bg-gradient-to-r from-charcoal/70 via-charcoal/30 to-transparent" />
+        </div>
         
         <Container size="wide" className="relative z-10 py-16">
           <div className="max-w-3xl">

@@ -120,11 +120,14 @@ export default function EventsPage() {
       <section className="relative min-h-[70vh] flex items-center bg-charcoal pt-24">
         <div className="absolute inset-0">
           <img
-            src="/images/projects/stanley-cup/nhl-championship-celebration-stage-design.jpg"
+            src="/images/categories/hero/events.jpg"
             alt="Live Events Fabrication"
-            className="w-full h-full object-cover opacity-30"
+            className="w-full h-full object-cover opacity-70"
           />
-          <div className="absolute inset-0 bg-gradient-to-r from-charcoal via-charcoal/90 to-charcoal/70" />
+          {/* Gradient from bottom */}
+          <div className="absolute inset-0 bg-gradient-to-t from-charcoal via-charcoal/30 to-transparent" />
+          {/* Gradient from left — for text readability */}
+          <div className="absolute inset-0 bg-gradient-to-r from-charcoal/70 via-charcoal/30 to-transparent" />
         </div>
         
         <Container size="wide" className="relative z-10 py-16">

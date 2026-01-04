@@ -83,11 +83,14 @@ export default function BroadcastPage() {
       <section className="relative min-h-[70vh] flex items-center bg-charcoal pt-24">
         <div className="absolute inset-0">
           <img
-            src="/images/projects/espn-studio-x/broadcast-studio-depth-monitor-array.jfif"
+            src="/images/categories/hero/broadcast.jpg"
             alt="Broadcast Studio Fabrication"
-            className="w-full h-full object-cover opacity-30"
+            className="w-full h-full object-cover opacity-60"
           />
-          <div className="absolute inset-0 bg-gradient-to-r from-charcoal via-charcoal/90 to-charcoal/70" />
+          {/* Gradient from bottom */}
+          <div className="absolute inset-0 bg-gradient-to-t from-charcoal via-charcoal/40 to-transparent" />
+          {/* Gradient from left — for text readability */}
+          <div className="absolute inset-0 bg-gradient-to-r from-charcoal/80 via-charcoal/40 to-transparent" />
         </div>
         
         <Container size="wide" className="relative z-10 py-16">
