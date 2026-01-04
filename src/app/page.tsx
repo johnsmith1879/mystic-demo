@@ -73,14 +73,17 @@ export default function HomePage() {
           HERO SECTION
           ============================================ */}
       <section className="relative min-h-[90vh] flex items-center bg-charcoal">
-        {/* Background with gradient overlay */}
+        {/* Background with combined gradient overlay */}
         <div className="absolute inset-0">
           <img
-            src="/images/projects/espn-studio-x/sportscenter-studio-x-anchor-desk-wide.jfif"
-            alt="ESPN Studio X - Broadcast Studio Fabrication"
-            className="w-full h-full object-cover opacity-40"
+            src="/images/hero/amazon-prime-nba-studio.jpg"
+            alt="Amazon Prime NBA Studio - Broadcast Studio Fabrication"
+            className="w-full h-full object-cover opacity-70"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-charcoal via-charcoal/70 to-charcoal/50" />
+          {/* Gradient from bottom — for Trust Bar and CTA readability */}
+          <div className="absolute inset-0 bg-gradient-to-t from-charcoal via-charcoal/40 to-transparent" />
+          {/* Gradient from left — for text readability, desk visible on right */}
+          <div className="absolute inset-0 bg-gradient-to-r from-charcoal/80 via-charcoal/40 to-transparent" />
         </div>
 
         {/* Content */}
